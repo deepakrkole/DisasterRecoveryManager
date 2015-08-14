@@ -4,13 +4,13 @@ package connectors;
 @SuppressWarnings("static-access")
 public class vCenterConfig {
    
-	private static String adminURL="https://130.65.132.19/sdk";
-    private static String adminUser="student@vsphere.local";
-    private static String URL="https://130.65.132.110/sdk";
+	private static String adminURL="****";
+    private static String adminUser="****";
+    private static String URL="****";
     private static String uName="administrator";
 
-    private static String adminPass="12!@qwQW";
-    private static String pWord="12!@qwQW";
+    private static String adminPass="***";
+    private static String pWord="***";
 
     private static String hostUser="root";
     
